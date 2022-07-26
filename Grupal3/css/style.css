@@ -1,0 +1,31 @@
+
+.header{
+    text-align: center;
+}
+.menu{
+    background-color: blue;
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    padding: 10px;
+}
+.menu a{
+    color:white;
+}
+.contenido section{
+    text-align: center;
+}
+.contenido section article{
+    display: inline-block;
+    padding: 10px;
+}
+.footer{
+    background-color: black;
+    padding: 20px 0px;
+    margin-top: 20px;
+}
+.footer div{
+    color: white;
+    text-align: center;
+}
